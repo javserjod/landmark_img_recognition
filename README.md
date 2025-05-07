@@ -1,0 +1,1 @@
+Download academic report regarding all the theoretical and practical concepts followed (only available in Spanish): [TFG_Reco_Lugares_Emblem_ML.pdf](https://github.com/user-attachments/files/20092390/TFG_Reco_Lugares_Emblem_ML.pdf)
